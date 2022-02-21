@@ -1,0 +1,14 @@
+.link{
+    text-decoration: none;
+    padding-left: 2vw;
+    color:#000000;
+    font-size: 1.5em;
+    font-family: GT Zirkon,Helvetica,Arial,sans-serif;
+}
+.endLink{
+    padding-left: 19vw;
+}
+.copyright{
+    font-family: GT Zirkon,Helvetica,Arial,sans-serif;
+    padding-top: 5vh;
+}

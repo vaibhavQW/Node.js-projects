@@ -1,0 +1,26 @@
+.inputCaption{
+    font-family: GT Zirkon,Helvetica,Arial,sans-serif;
+}
+.input1{
+    width:30vw;
+    border: none;
+    color: white;
+}
+.input1[type="text"]{
+    font-family: GT Zirkon,Helvetica,Arial,sans-serif;
+    color: white;
+}
+.input2{
+    width:30vw;
+    border: none;
+    height:10vw;
+    color: white;
+}
+.input2[type="text"]{
+    font-family: GT Zirkon,Helvetica,Arial,sans-serif;
+    color: white;
+}
+.buttonContact{
+    height:7vh;
+    width:10vw
+}

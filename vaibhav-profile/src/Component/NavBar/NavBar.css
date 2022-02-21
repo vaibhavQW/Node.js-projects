@@ -1,0 +1,46 @@
+#navV{
+    display: block;
+    height: 50vh;
+}
+.Float-right{
+    float: right;
+}
+.contact-heading{
+    font-size: 6vw;
+    margin-top: 20vh;
+}
+.contact-subheading{
+    font-size: 2vw;
+    margin-top: -19px;
+}
+.menu{
+    font-size: 5vw;
+    margin-top: -2vw;
+}
+.display-block{
+    display: block;
+}
+.whole-body{
+    display: block;
+    width: 100vw;
+    height:100vh;
+    background-color: black;
+    color: white;
+}
+.top-menu{
+    font-size: 5vw;
+    color: rgb(255, 255, 255);
+    padding-top: 33vh;
+
+}
+.other-menu{
+    font-size: 5vw;
+    color: rgb(255, 255, 255);
+    padding-top: 3vh;
+    padding-left: 0vw;
+}
+@media screen and (max-width:900px) {
+    .contact-subheading{
+        margin-top: 0px;
+    }
+}
